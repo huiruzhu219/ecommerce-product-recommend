@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.DS_Store
+.ipynb_checkpoints/
+*.egg-info/
+.vscode/
+.idea/
+*.log
+outputs/
+outputs_jupyter/
